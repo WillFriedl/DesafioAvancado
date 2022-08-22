@@ -8,8 +8,9 @@ body {
 
 .page {
   width: 1171px;
-  margin: 71px 89px 20px 20px;
+  margin: 0 89px 0 20px;
   padding: 71px;
+  padding-bottom: 0;
   
 }
 
